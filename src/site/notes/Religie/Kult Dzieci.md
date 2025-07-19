@@ -1,0 +1,15 @@
+---
+{"dg-home":false,"dg-publish":true,"permalink":"/religie/kult-dzieci/","dgPassFrontmatter":true}
+---
+
+# Kult Dzieci
+
+Kult Dzieci skupia się na oddawaniu czci [[Lore/Psionika\|psionikom]], którzy są uważani za "Dzieci" – osoby naznaczone przez tajemniczą, pozaziemską siłę. Wyznawcy kultu nie wiedzą, czym dokładnie jest ta kosmiczna moc, jaka jest jej natura ani jakie ma plany. Zastanawianie się nad tym stanowi tabu, ponieważ zwykły [[Rasy/Ludzie\|człowiek]] nie jest w stanie pojąć jej zamysłów, a próby zgłębiania tego są uznawane za bluźnierstwo. Kultyści, jak potocznie nazywa się wyznawców, zamiast poszukiwania nadrzędnej prawdy, podziwiają świat, który został im dany. [[Lore/Esperion\|Esperion]] traktują jako energię generowaną przez swoje nieokreślone bóstwo, kształtującą rzeczywistość według jego woli. W ich przekonaniu wszystko dzieje się zgodnie z planem, a obecność [[Lore/Esperion\|esperionu]] należy zaakceptować bez analizowania korzyści i zagrożeń, jakie niesie.
+
+[[Lore/Psionika\|Psionika]], będąca oczywistą konsekwencją [[Lore/Esperion\|esperionu]], zajmuje centralne miejsce w ich wierzeniach, dlatego osoby obdarzone mocą [[Lore/Psionika\|psioniczną]] uznają za kluczowy element boskiego planu. [[Lore/Psionika\|Psionicy]] są traktowani z ogromnym szacunkiem, a niekiedy nawet jako zwierzchnicy. Jeśli [[Lore/Psionika\|psionik]] wyznaje Kult Dzieci, otaczają go wierni, którzy widzą w nim coś na kształt duchownego. Nie wszyscy [[Lore/Psionika\|psionicy]] jednak faktycznie wierzą w cokolwiek, co nie przeszkadza niektórym wykorzystywać swojej pozycji do manipulowania wyznawcami.
+
+Nie można jednak sądzić, że kultyści są łatwymi do zmanipulowania fanatykami. Są pragmatyczni – jeśli nie dostrzegą korzyści, zarówno duchowych, jak i materialnych, z przystąpienia do wybranego Dziecka, odejdą. Cześć, jaką darzą [[Lore/Psionika\|psioników]], jest przede wszystkim duchowa. Kupiec sprzedający [[Lore/Psionika\|psionikowi]] swoje towary będzie próbował wynegocjować najlepszą cenę, a potem, mając na uwadze duchowy wymiar transakcji, może poprosić o błogosławieństwo i przekazać część zarobionych pieniędzy jako ofiarę. Przeciętny kultysta nie jest zobowiązany do ślepego wykonywania poleceń Dziecka, ale zawsze traktuje jego słowa z powagą i szacunkiem.
+
+Kult Dzieci nie składa się z naiwnych, ograniczonych ludzi, choć jak w każdym ruchu, znajdą się tacy, którzy popadają w przesadę. Kultyści, którzy całują [[Lore/Psionika\|psioników]] po stopach czy oddają cześć ziemi, po której przeszli, są groteskowym widokiem. Niestety, takie zachowania są na tyle częste, że osoby spoza kultu traktują go z pobłażaniem lub wręcz kpiną.
+
+Kult Dzieci głosi, że pewnego dnia objawi się [[Lore/Psionika\|psionik]] doskonały. Jego moc będzie niewyobrażalna. To dopiero on przekaże słowo, które będzie oznaczać nowy etap i wskaże drogę wyznawcom kultu.

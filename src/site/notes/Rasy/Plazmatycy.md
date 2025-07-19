@@ -1,0 +1,21 @@
+---
+{"dg-home":false,"dg-publish":true,"permalink":"/rasy/plazmatycy/","dgPassFrontmatter":true}
+---
+
+# Plazmatycy
+
+![Plazmatyk.webp|500](/img/user/Vault/Grafiki/Lore/Plazmatyk.webp)
+
+> **Typ:** Ludzie
+> **Długość życia:** 75 lat
+> **Imiona:** Imię i nazwisko zależne od miasta
+
+---
+
+Ta rasa ukształtowała się, gdy w ostatniej fazie wojny z syntetykami zbombardowano jedno z dużych [[Rasy/Ludzie\|ludzkich]] osiedli bombą kriogeniczną. Ten prototypowy wynalazek dużego zasięgu rażenia miał na celu zniwelowanie ewentualnego działania ochronnego [[Rasy/Ludzie\|ludzkich]] [[Lore/Psionika\|psioników]]. I w pierwszej fazie faktycznie tak to zadziałało. Cały teren został zamrożony, a temperatura całkowicie wyłączyła działanie esperionu. Miasto topniało przez kilka miesięcy i pozostało z niego jedynie pustkowie. Budynki, ludzie, maszyny - wszystko rozpuściło się. To czego nie przewidziano, to fakt, iż wraz ze wzrostem temperatury, działanie [[Lore/Esperion\|esperionu]] powróci. Blisko trzecia część martwych [[Rasy/Ludzie\|ludzi]] wróciła do życia w formie plazmatycznej niemal czarnej świadomej substancji.
+
+Plazmatycy w swojej naturalnej formie rozlewają się na zbitą substancję o konsystencji galaretki, jednak całkowicie świadomą i niemożliwą do zmieszania z jakąkolwiek inną substancją. Z jednym wyjątkiem. Plazmatyk jest w stanie zbić się w stała formę i zwykle przybiera postać przeciętnego [[Rasy/Ludzie\|człowieka]]. W zależności od zdolności plazmatyka będzie on bardziej lub mniej stabilny, jednak nawet najmniej uzdolnieni są w stanie oszukać nie spostrzegawczego rozmówcę co do swojej natury. Silne emocje mogą, choć nie muszą, sprawić iż plazmatyk całkowicie utraci stabilność. Wielu jednak spędza w "ludzkiej" formie większość swojego życia. Z wiekiem utrzymanie formy staje się coraz trudniejsze, a po 70-80 latach życia plazmatyk ulega stopniowej destrukcji - tracąc masę, aż w końcu rozpadając się całkowicie i bezpowrotnie na mikroskopijne cząstki materii. Większość plazmatyków jest w stanie przybierać więcej niż jedną formę - jednak nauczenie się kolejnej jest tak trudne, że spotkanie takiego który opanował ponad cztery to niezwykła rzadkość. Plazmatycy nadal musza jeść i spać aby regenerować siły, przy czym kaprysem losu wydaje się niemożliwość absorbowania żywności w niestabilnej formie.
+
+Ciekawym zagadnieniem jest rozmnażanie plazmatyków. Z jednej strony pary nadal uprawiają seks dla przyjemności - jednak nie prowadzi on w żaden sposób do prokreacji i dodatkowo jest on technicznie utrudniony przez problemy utrzymania stabilnej formy, co w żartach w przypadku mężczyzn nazywają przedwczesną implozją. Z drugiej strony aby stworzyć młodego plazmatyka - para musi częściowo zmieszać się w swojej niestabilnej formie. Jest to jedyny wyjątek, gry jest to możliwe, co jednak sprawia obu osobnikom potworny ból i na co decydują się tylko zdeterminowane pary. Wówczas oboje oddają część swojej masy, która zmieszana tworzy nowe życie. Proces rośnięcia plazmatyka w zasadzie zależy jedynie od jego rodziców. Dziecko nie jest w stanie samodzielnie przyjmować pożywienia, jednak rodzice są w stanie oddawać mu część swojej własnej masy. Tym samym sami znacząco zwiększają ilość spożywanego pokarmu. Co ciekawe, oddanie masy innemu plazmatykowi niż dziecku, wydaje się niemożliwe. A przynajmniej prawdopodobnie jak dotąd nikomu się nie udało. Jest możliwy pełny fizyczny rozwój młodych w zaledwie kilka tygodni, jeśli tylko przyjmą oni dostatecznie dużo masy - z drugiej jednak strony zazwyczaj się tak nie dzieje. Rozwój masy zwykle jest dozowany i wzrasta wraz z rozwojem umysłowym, co potrafi potrwać czasem kilka lat, a czasem ponad 30.
+
+Plazmatycy są w zasadzie odporni na konwencjonalną broń, jednak jeśli przyjmą zbyt wiele obrażeń stracą swoją stabilność i tym samym praktycznie przestaną stanowić ewentualne zagrożenie. Jednak niskie temperatury mogą być dla nich zabójcze. Przebywanie w temperaturze poniżej -10 stopni sprawia iż zaczynają się rozpadać. Z początku w sposób odwracalny, jednak prędzej czy później nawet najtwardszy spośród nich - umrze.
