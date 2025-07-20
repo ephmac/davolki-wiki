@@ -30,7 +30,7 @@ Przykłady imion:
 	
 	Kobiety - elita: Sigrun Marnhild, Thyra Volkendal, Astrid Helmvar, Brynja Dorthvald, Hilda Fenmarch, Eira Ulfswyn, Gudla Vernhild, Inga Tharwen, Freyda Skornhelm, Yseldra Dunvarn
 	
-	Mężczyźni: Ulf, Brand, Harek, Drogan, Wulf, Thorik, Einar, Skeld, Arn, Hrod
+	Mężczyźni: Ulf, Brand, Harek, Drogan, Wulf, Thorik, Einar, Skeld, Arn
 	
 	Kobiety: Thora, Ylva, Sif, Bryn, Runa, Hilda, Gerta, Astri, Elga, Vala
 

@@ -10,7 +10,7 @@
 > **Status:** Żywy
 > **Wiek:** 20
 > **Zawód**: specjalista od materiałów wybuchowych, wynalazca, majsterkowicz
-> **Organizacja:** [[Organizacje/Davolki\|Davolki]]
+> **Organizacja:** [[Organizacje/Davolki\|Davolki]], dawniej Kopalnia w [[Miasta/Bunkier\|Bunkrze]]
 
 ---
 

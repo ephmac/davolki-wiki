@@ -14,4 +14,4 @@
 
 ---
 
-Inga przyłączyła się do Antona po tym, jak straciła rodziców. Nie miała co ze sobą zrobić i postanowiła zignorować fakt, że Anton nie miał ochoty na niczyje towarzystwo. Ostatecznie bardzo się ze sobą zżyli. Inga bywa porywcza i brutalna, co jest najprawdopodobniej efektem nabytego braku zaufania do otoczenia i wiecznie podniesioną gardą.
+Inga przyłączyła się do [[Postacie/Drużyna/Anton Grigoriewicz\|Antona]] po tym, jak straciła rodziców. Nie miała co ze sobą zrobić i postanowiła zignorować fakt, że [[Postacie/Drużyna/Anton Grigoriewicz\|Anton]] nie miał ochoty na niczyje towarzystwo. Ostatecznie bardzo się ze sobą zżyli. Inga bywa porywcza i brutalna, co jest najprawdopodobniej efektem nabytego braku zaufania do otoczenia i wiecznie podniesioną gardą.
