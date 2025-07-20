@@ -1,53 +1,17 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/postacie/druzyna/anton-grigoriewicz/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-home":false,"dg-publish":true,"permalink":"/postacie/druzyna/anton-grigoriewicz/","dgPassFrontmatter":true}
 ---
 
-# IMIĘ
-
 ![AntonGrigoriewicz.webp|500](/img/user/Vault/Grafiki/Dru%C5%BCyna/AntonGrigoriewicz.webp)
-> **Rasa:** [[Człowiek\|Człowiek]]
+
+> **Rasa:** [[Rasy/Ludzie\|Człowiek]]
 > **Pochodzenie:** [[Miasta/Bunkier\|Bunkier]]
 > **Dom:** [[Miasta/Kryształowe Jaskinie\|Kryształowe Jaskinie]]
 > **Status:** Żywy
-> **Wiek:** 34 lat
+> **Wiek:** 34
 > **Zawód**: Najemnik
+> **Organizacja:** [[Organizacje/Davolki\|Davolki]]
 
 ---
 
-HISTORIA
-
-
-
-
-<!-- To też jest komentarz, klasyczny HTML -->
-
-
----
-dg-hide: true
----
-
-Tu możesz napisać dowolny tekst — nie powinien być publikowany.
-
-
-
-# Tytuł
-
-> Notatka: to tylko dla MG  
-> #private #ukryte
-
-
-
-
-Anton (34l.) Jest dość znanym w Bunkrze najemnikiem. Raczej nie łamie prawa ale zdarza mu się przyjąć również szemrane zadania.
-
-
-
-# Test komentarzy
-
-Widoczny tekst
-
-
-
-<!-- HTMLowy komentarz, niewidoczny, ale w kodzie strony -->
-
-To będzie normalnie widoczne
+Anton był dość znanym w [[Miasta/Bunkier\|Bunkrze]] najemnikiem. Raczej nie łamie prawa ale zdarza mu się przyjąć również szemrane zadania. Jest wyjątkowo opiekuńczy w stosunku do [[Postacie/Drużyna/Inga\|Ingi]].
