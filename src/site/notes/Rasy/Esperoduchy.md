@@ -2,8 +2,6 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/rasy/esperoduchy/","dgPassFrontmatter":true}
 ---
 
-# Esperoduchy
-
 ![Esperoduch.webp|500](/img/user/Vault/Grafiki/Lore/Esperoduch.webp)
 
 > **Typ:** Ludzie

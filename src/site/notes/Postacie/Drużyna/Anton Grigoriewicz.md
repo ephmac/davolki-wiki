@@ -9,7 +9,7 @@
 > **Pochodzenie:** [[Miasta/Bunkier\|Bunkier]]
 > **Dom:** [[Miasta/Kryształowe Jaskinie\|Kryształowe Jaskinie]]
 > **Status:** Żywy
-> **Wiek:** 46 lat
+> **Wiek:** 34 lat
 > **Zawód**: Najemnik
 
 ---

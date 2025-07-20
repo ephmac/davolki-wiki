@@ -2,8 +2,6 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/lore/neuroesperioza/","dgPassFrontmatter":true}
 ---
 
-# Neuroesperioza
-
 Choroba [[Lore/Esperion\|esperionowa]]. Półtora tysiąca lat temu niemal doprowadziła do całkowitej zagłady cywilizacji. Pomimo upływu lat, nadal nie istnieje na nią lekarstwo ani profilaktyka. Wydaje się jednak, że dzisiejsi mieszkańcy wykształcili na nią odporność. Nadal zdarzają się zachorowania, jednak nie epidemie. Neuroesperioza stała się po prostu kolejnym z wielu sposobów na nagłą śmierć. Jednocześnie [[Lore/Esperion\|esperion]] w atmosferze wyeliminował kilka innych schorzeń, więc bilans wydaje się wyrównany do czasów starożytnych. Nie zmienia to jednak faktu, że cywilizacja ludzi w wyniku pandemii neuroesperiozy cofnęła się o tysiące lat w kwestii liczebności i organizacji.
 
 Ofiara neuroesperiozy doznaje porażenia układu nerwowego i umiera w bólach. Proces trwa około tygodnia. Nie wygląda to zawsze identycznie, jednak część symptomów jest wspólna. Porażenie nerwów czasem sprawia, że chory leży nieruchomo, a czasem wręcz przeciwnie - doznaje ataków epilepsji, niekontrolowanych skurczy i tak dalej. Chociaż ciężko to udowodnić w aktualnych warunkach, najprawdopodobniej wszelka świadomość umiera już po kilku dniach, a rodzina opiekuje się już wciąż poruszającą się martwą skorupą.

@@ -2,8 +2,6 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/rasy/syntetyki/","dgPassFrontmatter":true}
 ---
 
-# NAZWA
-
 ![Syntetyk.jpg|500](/img/user/Vault/Grafiki/Lore/Syntetyk.jpg)
 
 > **Typ:** SI

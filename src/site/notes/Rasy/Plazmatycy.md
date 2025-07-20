@@ -2,8 +2,6 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/rasy/plazmatycy/","dgPassFrontmatter":true}
 ---
 
-# Plazmatycy
-
 ![Plazmatyk.webp|500](/img/user/Vault/Grafiki/Lore/Plazmatyk.webp)
 
 > **Typ:** Ludzie

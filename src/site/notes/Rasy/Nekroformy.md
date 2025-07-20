@@ -2,8 +2,6 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/rasy/nekroformy/","dgPassFrontmatter":true}
 ---
 
-# Nekroformy
-
 ![Nekroforma.webp|500](/img/user/Vault/Grafiki/Lore/Nekroforma.webp)
 
 > **Typ:** Neozwierzęta

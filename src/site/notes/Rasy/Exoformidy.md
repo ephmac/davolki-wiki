@@ -2,8 +2,6 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/rasy/exoformidy/","dgPassFrontmatter":true}
 ---
 
-# Exoformidy
-
 ![Exoformid.webp|500](/img/user/Vault/Grafiki/Lore/Exoformid.webp)
 
 > **Typ:** Ludzie

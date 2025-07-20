@@ -2,8 +2,6 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/rasy/neozwierzeta/","dgPassFrontmatter":true}
 ---
 
-# Neozwierzęta
-
 ![Esperozwierze.webp|500](/img/user/Vault/Grafiki/Lore/Esperozwierze.webp)
 ![Mutzwierze.webp|500](/img/user/Vault/Grafiki/Lore/Mutzwierze.webp)
 

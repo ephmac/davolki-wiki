@@ -2,8 +2,6 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/rasy/gruntoki/","dgPassFrontmatter":true}
 ---
 
-# Gruntoki
-
 ![Gruntok.jpg|500](/img/user/Vault/Grafiki/Lore/Gruntok.jpg)
 
 > **Typ:** Ludzie

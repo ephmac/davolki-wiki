@@ -2,8 +2,6 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/rasy/ludzie/","dgPassFrontmatter":true}
 ---
 
-# Ludzie
-
 ![Czlowiek.webp|500](/img/user/Vault/Grafiki/Lore/Czlowiek.webp)
 
 > **Typ:** Ludzie

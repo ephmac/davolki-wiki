@@ -2,8 +2,6 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/rasy/zespoleni/","dgPassFrontmatter":true}
 ---
 
-# Zespoleni
-
 ![Zespoleni.jpg|500](/img/user/Vault/Grafiki/Lore/Zespoleni.jpg)
 
 > **Typ:** Ludzie

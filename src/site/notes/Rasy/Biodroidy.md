@@ -2,8 +2,6 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/rasy/biodroidy/","dgPassFrontmatter":true}
 ---
 
-# Biodroidy
-
 ![Biodroid.webp|500](/img/user/Vault/Grafiki/Lore/Biodroid.webp)
 
 > **Typ:** SI

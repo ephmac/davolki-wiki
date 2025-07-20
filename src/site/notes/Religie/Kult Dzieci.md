@@ -2,8 +2,6 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/religie/kult-dzieci/","dgPassFrontmatter":true}
 ---
 
-# Kult Dzieci
-
 Kult Dzieci skupia się na oddawaniu czci [[Lore/Psionika\|psionikom]], którzy są uważani za "Dzieci" – osoby naznaczone przez tajemniczą, pozaziemską siłę. Wyznawcy kultu nie wiedzą, czym dokładnie jest ta kosmiczna moc, jaka jest jej natura ani jakie ma plany. Zastanawianie się nad tym stanowi tabu, ponieważ zwykły [[Rasy/Ludzie\|człowiek]] nie jest w stanie pojąć jej zamysłów, a próby zgłębiania tego są uznawane za bluźnierstwo. Kultyści, jak potocznie nazywa się wyznawców, zamiast poszukiwania nadrzędnej prawdy, podziwiają świat, który został im dany. [[Lore/Esperion\|Esperion]] traktują jako energię generowaną przez swoje nieokreślone bóstwo, kształtującą rzeczywistość według jego woli. W ich przekonaniu wszystko dzieje się zgodnie z planem, a obecność [[Lore/Esperion\|esperionu]] należy zaakceptować bez analizowania korzyści i zagrożeń, jakie niesie.
 
 [[Lore/Psionika\|Psionika]], będąca oczywistą konsekwencją [[Lore/Esperion\|esperionu]], zajmuje centralne miejsce w ich wierzeniach, dlatego osoby obdarzone mocą [[Lore/Psionika\|psioniczną]] uznają za kluczowy element boskiego planu. [[Lore/Psionika\|Psionicy]] są traktowani z ogromnym szacunkiem, a niekiedy nawet jako zwierzchnicy. Jeśli [[Lore/Psionika\|psionik]] wyznaje Kult Dzieci, otaczają go wierni, którzy widzą w nim coś na kształt duchownego. Nie wszyscy [[Lore/Psionika\|psionicy]] jednak faktycznie wierzą w cokolwiek, co nie przeszkadza niektórym wykorzystywać swojej pozycji do manipulowania wyznawcami.
