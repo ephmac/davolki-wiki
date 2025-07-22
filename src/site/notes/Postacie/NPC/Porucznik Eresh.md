@@ -14,4 +14,4 @@
 
 ---
 
-Bliski współpracownik [[Postacie/NPC/Utu-Zalim\|Utu-Zalima]]. To on oznakował [[Postacie/Drużyna/Jonas syn Einara\|Jonasa]] za morderstwo. To także on załatwił formalności związane z umorzeniem tego morderstwa.
+Bliski współpracownik [[Postacie/NPC/Utu-Zalim\|Utu-Zalima]]. To on oznakował [[Postacie/Drużyna/Jonas syn Einara\|Jonasa]] za morderstwo na [[Postacie/NPC/Szarańcza Korzonek\|Szarańczy Korzonku]]. Był wówczas na trakcie w okolicach [[Miasta/Kryształowe Jaskinie\|Kryształowych Jaskiń]], a doniosła mu o tym [[Postacie/NPC/Esperowiewiórka Lilu\|esperowiewiórka Lilu]]. To także on załatwił formalności związane z umorzeniem tego morderstwa.

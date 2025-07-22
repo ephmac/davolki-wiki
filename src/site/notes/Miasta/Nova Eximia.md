@@ -2,7 +2,7 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/miasta/nova-eximia/","dgPassFrontmatter":true}
 ---
 
-Miasto
+Miasto w którym można się dowiedzieć najwięcej na temat [[Lore/Esperion\|esperionu]].
 
 <!--
 nieielkie technokratyczne miasto, zarządzane przez naukowców i inżynierów, wielu syntetyków. eksportuje swoje osiągnięcia technologiczne, jednak w dość ograniczonym stopniu, by nie utrzymać wysokie ceny. zwykle są to wynalazki stworzone specjalnie dla arystokracji i władców.

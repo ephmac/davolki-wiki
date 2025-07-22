@@ -2,7 +2,7 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/miasta/fenris/","dgPassFrontmatter":true}
 ---
 
-Miasto
+Miasto, podobno zniszczone
 
 <!--
 ![Fenris.png|800](/img/user/Vault/Grafiki/Lore/Fenris.png)

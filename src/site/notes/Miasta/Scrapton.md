@@ -2,7 +2,7 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/miasta/scrapton/","dgPassFrontmatter":true}
 ---
 
-Miasto
+Miasto - złomowisko. Demokratyczne ale niezbyt zorganizowane. Nie posiada zbyt wielu mieszkańców, bogactw ani wojska. Wielu mieszkańców kolekcjonuje złom albo konstruuje z niego dziwne urządzenia.
 
 <!--
 Miasto-złomowisko. mieszkańcy zbierają cały archaiczny złom i starają się naprawiać lub konstruować wymyślne sprzęty. miasto jest demokratyczne jednak niemal pozbawione słóżb porządkowych, które jednocześnie nie są szczególnie potrzebne. mała liczebność mieszkańców sprawia iż większość sporów jest rozstrzygana między sobą. idealne miasto dla majsterkowiczów

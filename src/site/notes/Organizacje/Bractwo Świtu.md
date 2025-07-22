@@ -1,0 +1,7 @@
+---
+{"dg-home":false,"dg-publish":true,"permalink":"/organizacje/bractwo-switu/","dgPassFrontmatter":true}
+---
+
+![BractwoSwitu.png|200](/img/user/Vault/Grafiki/Lore/BractwoSwitu.png)
+
+Organizacja zrzeszająca osoby wierzące, że [[Lore/Esperion\|esperion]] może być dobrodziejstwem, jednak w większości przypadków jest po prostu zagrożeniem. Ich celem jest eliminowanie [[Lore/Esperion\|esperionu]] z ogólnego obiegu. Starają się skupować go od osób, które są skłonne go sprzedać. Ale też starają się zastąpić przedmioty i technologie [[Lore/Esperion\|esperionowe]] innymi nowoczesnymi rozwiązaniami. W [[Miasta/Kryształowe Jaskinie\|Kryształowych Jaskiniach]] skupiają się głównie na badaniu kryształów i szukaniem zastosowania dla nich w nowoczesnych technologiach. Składowany [[Lore/Esperion\|esperion]] jest przechowywany w miejscu objętym tajemnicą w sposób bezpieczny dla otoczenia. Według Bractwa Świtu udało się zmniejszyć [[Lore/Esperion\|esperion]] w atmosferze wokół wyspy o 1,45%. Sami byli zaskoczeni, że powietrze nie przemieszało się z powietrzem z całego świata, a badania potwierdzają jednoznacznie zmniejszenie ilości [[Lore/Esperion\|esperionu]] w atmosferze. Zarabiają dzięki datkom, badaniom i sprzedaży technologii.

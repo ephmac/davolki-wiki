@@ -9,9 +9,9 @@
 > **Dom:** [[Miasta/Kryształowe Jaskinie\|Kryształowe Jaskinie]]
 > **Status:** Martwy
 > **Wiek:** ??
-> **Zawód**: brak
-> **Organizacja:** brak
+> **Zawód**: Brak
+> **Organizacja:** Brak
 
 ---
 
-Pokonany przez Davolków w zamkniętej części jaskiń kompleksu Kryształowych Jaskiń. Wył nienaturalnie wielki, a jego słabym punktem okazało się podbrzusze.
+Pokonany przez [[Organizacje/Davolki\|Davolków]] w zamkniętej części jaskiń kompleksu [[Miasta/Kryształowe Jaskinie\|Kryształowych Jaskiń]]. Wył nienaturalnie wielki, a jego słabym punktem okazało się podbrzusze.

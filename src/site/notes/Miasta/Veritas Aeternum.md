@@ -2,7 +2,7 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/miasta/veritas-aeternum/","dgPassFrontmatter":true}
 ---
 
-Miasto
+Miasto w którym mieszka wielu [[Lore/Psionika\|psioników]].
 
 <!--
 Miasto psioników. Chociaż większość mieszkańców nie posiada zdolności psionicznych, to psionicy stanowią tu najważniejszą kastę i sprawują faktyczne rządy. tylko psionicy zamieszkujący miasto mają prawo głosu w celu wybrania przywódców. pozostali są traktowani jako obywatele drugiej kategorii, chociaż z pewną dozą szacunku. to tutaj znajduje się jedyna na wyspie szkoła dla psioników

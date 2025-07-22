@@ -14,4 +14,4 @@
 
 ---
 
-Wpływowy Arystokrata z [[Miasta/Fortuna\|Fortuny]], poprzysiągł zemstę za zniewagę [[Postacie/Drużyna/Fix (INX-7856)\|Fixowi]]. Traktuje to śmiertelnie poważanie.
+Wpływowy Arystokrata z [[Miasta/Fortuna\|Fortuny]], poprzysiągł zemstę za zniewagę [[Postacie/Drużyna/Fix (INX-7856)\|Fixowi]]. Traktuje to śmiertelnie poważanie. Zarzuca mu, że to przez niego porzuciła go narzeczona, której nie traktował zbyt uprzejmie.

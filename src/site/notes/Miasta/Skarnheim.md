@@ -2,7 +2,7 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/miasta/skarnheim/","dgPassFrontmatter":true}
 ---
 
-Miasto
+Miasto górnicze. Zajmują się między innymi obróbką metali. Wygląda jak kamienna forteca i jest średnio bezpieczne. Ustrój: monarcha absolutna, podobno despotyczna.
 
 <!--
 Miasto górnicze, głównie wydobycie i obróbka metali. monarchia absolutna - despotyczny król, nadmierne wykorzystanie górników i silna kasta wojskowa. sporo banitów i rozbójników, przed którymi wojsko broni mieszkańców

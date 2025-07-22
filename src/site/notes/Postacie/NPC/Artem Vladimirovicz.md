@@ -19,3 +19,5 @@ Artem to [[Organizacje/Protektorat\|kontroler Protektoratu]] o pogodnym usposobi
 Choć jest wykwalifikowanym dowódcą, to bardziej ceni sobie współpracę niż sztywne dowodzenie. W pracy stara się zarażać optymizmem i uspokajać swoich podwładnych, nawet w trudnych sytuacjach. Artem jest także osobą, która potrafi dostrzec potencjał w innych i pomaga im rozwijać swoje umiejętności.
 
 Pomimo pogodnej natury, Artem ma jedną słabość - swoje uczucia do [[Postacie/Drużyna/Larisa Nikonov\|Larisy]], swojej niedawnej podwładnej. Choć starał się nie dopuszczać, by te emocje wpływały na jego obowiązki, nie zawsze udawało mu się zachować dystans. [[Postacie/Drużyna/Larisa Nikonov\|Larisa]], która często dystansowała się od jego flirtów, powodowała u niego frustrację, ale nigdy nie tracił nadziei, że uda mu się zyskać coś więcej niż jej przyjaźń.
+
+Odwiedził [[Postacie/Drużyna/Larisa Nikonov\|Larisę]] w areszcie, po walce w magazynie i obiecał powiadomić o wszystkim jej [[Postacie/NPC/Iwan Nikonov\|ojca]].
