@@ -2,7 +2,7 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/miasta/bursztynowy-port/","dgPassFrontmatter":true}
 ---
 
-Miasto, w którym rządzą bogate rody kupieckie. Utrzymuje kontakt z kontynentem, jako prawdopodobnie jedyne. Można w nim spotkać ludzi z kontynentu, podobno są dziwni. Mieszka w nim niewielu syntetyków.
+Miasto, w którym rządzą bogate rody kupieckie. Utrzymuje kontakt z kontynentem, jako prawdopodobnie jedyne. Można w nim spotkać ludzi z kontynentu, podobno są dziwni. Mieszka w nim niewielu syntetyków. Słynie z biurokracji.
 
 <!--
 ![BursztynowyPort.png|800](/img/user/Vault/Grafiki/Lore/BursztynowyPort.png)

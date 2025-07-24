@@ -14,4 +14,4 @@
 
 ---
 
-Eldros zamieszkuje dżunglę w pobliżu [[Miasta/Bunkier\|Bunkra]]. Jest więc w stanie obserwować osoby, które z niego wychodzą. Jest samotnikiem i nie potrzebuje mieszkać w żadnym z miast. Był pierwsza rozumną istotą, którą spotkały [[Organizacje/Davolki\|Davolki]] po wyjściu na powierzchnię i okazał się niezwykle pomocny. Pokierował grupę w stronę [[Miasta/Kryształowe Jaskinie\|Kryształowych Jaskiń]]. Nie był zbyt chętny do pomocy, jednak instynktownie bardzo silnie zaprzyjaźnił się z [[Postacie/Drużyna/Jonas syn Einara\|Jonasem]].
+Eldros zamieszkuje dżunglę w pobliżu [[Miasta/Bunkier\|Bunkra]]. Jest więc w stanie obserwować osoby, które z niego wychodzą. Jest samotnikiem i nie potrzebuje mieszkać w żadnym z miast. Był pierwsza rozumną istotą, którą spotkały [[Organizacje/Davolki\|Davolki]] po wyjściu na powierzchnię i okazał się niezwykle pomocny. Pokierował grupę w stronę [[Miasta/Kryształowe Jaskinie\|Kryształowych Jaskiń]]. Nie był zbyt chętny do pomocy, jednak instynktownie bardzo silnie zaprzyjaźnił się z [[Postacie/Drużyna/Jonas syn Einara\|Jonasem]]. Dostał też od niego okulary przeciwsłoneczne.

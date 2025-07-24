@@ -10,7 +10,7 @@
 > **Status:** Żywy
 > **Wiek:** 48
 > **Zawód**: [[Miasta/Falkenhall\|Dyktator Falkenhall]]
-> **Organizacja:** Ród Varghelmów
+> **Organizacja:** [[Organizacje/Ród Varghelmów\|Ród Varghelmów]]
 
 ---
 

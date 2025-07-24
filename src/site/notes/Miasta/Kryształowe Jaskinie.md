@@ -32,7 +32,7 @@ Przykłady imion:
 	
 	Mężczyźni: Urnam, Etana, Shulgi, Zamu, Amurru, Tiru, Balatu, Ibbi, Kishar, Nabu
 	
-	Kobiety: Tillu, Ninti, Sura, Lillitu, Amatu, Dita, Bitu, Naru, Ashara, Nanna
+	Kobiety: Ninti, Sura, Lillitu, Amatu, Dita, Bitu, Naru, Ashara, Nanna
 
 Opis na sesję - z zewnątrz
 	Podążając traktem przez gęsty, chłodny las, w końcu dostrzegacie skalne wzgórza, które wyłaniają się spośród drzew niczym ściana odgradzająca świat zewnętrzny od tajemniczej przestrzeni wewnątrz. Pośrodku wzgórz widać masywne wejście do jaskini, otoczone skromnymi, lecz solidnymi fortyfikacjami. Drewniane palisady i strażnice z kamienia stoją na straży, świadcząc o tym, że to miejsce jest nie tylko zamieszkałe, ale i chronione.

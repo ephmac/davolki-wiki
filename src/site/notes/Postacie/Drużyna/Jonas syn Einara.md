@@ -22,4 +22,10 @@ Jego czerwone oczy, które od zawsze były jego przekleństwem, teraz sprawiały
 
 Jonas nie jest pozbawiony talentów. Jednym z mniej oczywistych jest smykałka do gotowania. Wyjątkowo dobrze radzi sobie również z bardziej alternatywnymi trasami, niedostępnymi dla innych. Jest w stanie w trakcie ucieczki i pościgu na przykład wdrapać się na dach budynku i zyskać przewagę. Być może pomaga mu w tym bardzo drobna postura. Jonas jest drobny nawet jak na [[Rasy/Gruntoki\|Gruntoka]], które przecież już są znacząco niższe od większości [[Rasy/Ludzie\|ludzi]]. Z drugiej jednak strony nie da się ukryć, że Jonas jest najgorsza osobą do powierzania mu tajemnic. Potrafi wygadać wszystko wszystkim, co naprawdę stawia pod znakiem zapytaniem - jak udało mu się przez pewien czas być skutecznym handlarzem tajemnic?
 
+---
+
 W toku śledztwa nad sprawą eksplozji w kopalni poznaje imię [[Postacie/NPC/Bagger\|Bagger]]. Niestety nie wiadomo jaką rolę ten [[Postacie/NPC/Bagger\|Bagger]] odegrał.
+
+Na powierzchni Jonas odkrył w sobie nową pasję - wędkarstwo.
+
+Aby zdobyć pieniądze na budowę [[Miejsca/Dom Davolków w Kryształowych Jaskiniach\|domu]] w [[Miasta/Kryształowe Jaskinie\|Kryształowych Jaskiniach]], Jonas zdecydował się na szantaż niejakiej [[Postacie/NPC/Tillu\|Tillu]], której zrobił zdjęcia, będące dowodem na jej romans z prezydentem [[Postacie/NPC/Zababa\|Zababą]].

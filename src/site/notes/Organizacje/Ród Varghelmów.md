@@ -1,0 +1,9 @@
+---
+{"dg-home":false,"dg-publish":true,"permalink":"/organizacje/rod-varghelmow/","dgPassFrontmatter":true}
+---
+
+Jeden z dwóch rodów rządzących w [[Miasta/Falkenhall\|Falkenhall]]. Głową rodu i jednocześnie jednym z dwóch dyktatorów miasta jest [[Postacie/NPC/Helga 'Rozjemczyni' Varghelm\|Helga "Rozjemczyni"]]. Drugim rodem są [[Organizacje/Ród Grimwarldów\|Grimwarldowie]]. Oba rody uważane są za założycieli [[Miasta/Falkenhall\|miasta]].
+
+[[Organizacje/Ród Varghelmów\|Varghelmowie]] dostrzegają jednoosobowego przywództwa, w rodzinie. Jednak w przeciwieństwie do Grimwarldów, utrzymują liczną rodzinę - co z jednej strony powoduje wewnętrzne konflikty i intrygi, a z drugiej pozwala na obsadzenie większej liczby strategicznych urzędów. [[Postacie/NPC/Helga 'Rozjemczyni' Varghelm\|Helga Varghelm]] stara się rozwinąć luksusową gałąź handlu [[Lore/Esperion\|esperionem]]. Chce ograniczyć liczbę produkowanej broni, której eksport uważa na zagrożenie dla miasta, a skupić się na produkcji przedmiotów o niezwykłych właściwościach, dla najpotężniejszych ludzi na wyspie. [[Postacie/NPC/Ulfar 'Srogie Oko' Grimwardl\|Ulfar Grimwardl]] jest jednak zdania, że nawet bransoleta lecząca nowotwory może posłużyć za broń w ręku wprawnego generała. I chociaż oboje zgadzają się co do potrzeby ograniczenia produkcji broni, to do czasu ustalenia planu wspólnego działania nie wprowadzili absolutnie żadnej znaczącej zmiany w tym zakresie.
+
+Głównym zajęciem Varghelmów w mieście jest administracja i gospodarka. Tym samym to Varghelmowie mają główny nadzór nad skarbem [[Miasta/Falkenhall\|miasta]]. Czy to znaczy, że mają przewagę finansową nad swoimi rywalami? Nie do końca. Po pierwsze [[Organizacje/Ród Grimwarldów\|Grimwarldowie]] mają również swoje rezerwy, a po drugie - swoich ludzi w administracji. A także szpiegów w szeregach Varghelmów.

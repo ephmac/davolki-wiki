@@ -15,3 +15,7 @@
 ---
 
 Mieszkaniec [[Miejsca/Korzenica\|wioski Korzenica]].
+
+<!--
+Psionik odpowiedzialny za mgłę otaczającą wioskę. Wierzy, że musi ją utrzymywać, gdyż to ona chroni wioskę przed niebezpieczeństwami z dżungli. Ukrywa swoje moce przed resztą mieszkańców, gdyż boi się odrzucenia.
+-->
