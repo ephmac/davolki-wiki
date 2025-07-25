@@ -14,4 +14,4 @@
 
 ---
 
-Pokonany przez [[Organizacje/Davolki\|Davolków]] w zamkniętej części jaskiń kompleksu [[Miasta/Kryształowe Jaskinie\|Kryształowych Jaskiń]]. Wył nienaturalnie wielki, a jego słabym punktem okazało się podbrzusze.
+Pokonany przez [[Organizacje/Davolki\|Davolków]] w zamkniętej części jaskiń kompleksu [[Miasta/Kryształowe Jaskinie\|Kryształowych Jaskiń]]. Był nienaturalnie wielki, a jego słabym punktem okazało się podbrzusze.
